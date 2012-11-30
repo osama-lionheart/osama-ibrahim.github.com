@@ -1,0 +1,49 @@
+# THREE.WebGLRenderer 53 (undefined, #undefined)
+# Error creating WebGL context. (undefined, #undefined)
+TypeError: 'null' is not an object (evaluating 'T.getExtension')
+
+  http://localhost:3501/scripts/amd-app.js:1 in Gc
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+  http://localhost:3501/scripts/amd-app.js:1
+CACHE MANIFEST
+
+# Time: Fri Nov 30 2012 14:18:49 GMT+0200 (EET)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/local/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js
+http://localhost:3501/app/images/glyphicons-halflings-white.png?1354061972
+http://localhost:3501/app/images/glyphicons-halflings.png?1354061972
+http://www.google-analytics.com/ga.js
+scripts/amd-app.js
+scripts/plugins.js
+scripts/vendor/modernizr.min.js
+styles/main.css
+
+NETWORK:
+*
